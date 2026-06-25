@@ -1,0 +1,31 @@
+# Binder-compatible environment for Anillo Obsidian Geochemistry Analysis
+# Generated for Python 3.11 on conda-forge
+
+name: obsidian-geochem
+channels:
+  - conda-forge
+
+dependencies:
+  # Core Python
+  - python=3.11.9
+  
+  # Data manipulation & analysis
+  - numpy=1.26.4
+  - pandas=2.2.1
+  
+  # Visualization (Plotly)
+  - plotly=5.18.0
+  
+  # Jupyter & widgets
+  - jupyterlab=4.1.5
+  - ipywidgets=8.1.2
+  - jupyterlab_widgets=3.0.10
+  - widgetsnbextension=4.0.10
+  
+  # Additional utilities
+  - pip=24.0
+  
+  # pip packages (if needed beyond conda)
+  - pip
+  - pip:
+    - anywidget==0.9.13

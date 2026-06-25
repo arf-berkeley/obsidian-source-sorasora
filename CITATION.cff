@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Obsidian Source Biplots and Ternary Diagrams with Confidence Ellipses"
+authors:
+  - family-names: Tripcevich
+    given-names: Nico
+version: 1.0.0
+date-released: 2026-01-16
+repository-code: https://github.com/ntrip6/obsidian-source-anillo
