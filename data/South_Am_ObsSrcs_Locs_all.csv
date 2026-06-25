@@ -1,0 +1,82 @@
+Source,Chem_Group,Latitude,Longitude,Notes
+Alca-1,ALCA-1,-15.12055156,-72.69212417,
+Alca-2,ALCA-2,-15.12,-72.69,
+Alca-3,ALCA-3,-15.12,-72.69945156,
+Alca-4,ALCA-4,-15.21025,-72.7155,
+Alca-5,ALCA-5,-15.12,-72.69,
+Alca-7,ALCA-7,-15.12,-72.69,
+Anillo,ANL-PU,-15.05415429,-72.98460714,
+Archibarca,ARCH-ARG,-25.2,-67.88,
+Arroyo El Zaino,AZA-ARG,-35.318,-69.7214,
+Azafatudo,AZCO,4.7,-75.3832,
+c15,C15,-41.91,-69.03,
+c17,C-GROUP2,-41.5,-67.25,C20?
+Caldera Vilama-1,CVA,-22.5667,-66.6,CVA1 CVA2
+Callejones,MUEC,-0.212,-78.14,
+Carboncillo,CARB,-3.617,-79.219,Saraguro region
+Cargachiquito,CG-COL,2.5,-76.5,
+Caylloma,CAY-PU,-15.19,-71.68,
+Cerro Aconcahua,AC-PU,-16.84,-69.86,
+Cerro Huenul,CHN-ARG,-36.9542,-69.7986,
+Cerro Kaskio,CK-BOL,-21.382,-67.7793,
+Cerro Ticlliago,CT-PU,-14.62,-73,Aymaraes Province
+Cerro Verlinka,C-GROUP1,-47.8833,-71.3167,"C13, Cordillera Baguales"
+Laguna Blanca Zapaleri,ZAP-ARG,-22.8862,-67.4359,Cerro Zapaleri
+Chaiten Volcano,CV-CHL,-42.8328,-72.6458,
+Charaña,CHR-BOL,-17.583,-69.1667,Tumuku type
+Chascon,CHAS-ARG,-26.6,-67.58,
+Chivay,CHIVAY,-15.64012555,-71.61098985,
+Coche Quemado,CQM-ARG,-36.1876,-69.67998462,
+Cordillera Baguales,C-GROUP1,-47.8833,-71.3167,
+Cordillera Los Baguales,C-GROUP1,-47.8833,-71.3167,
+Cosanga-A,COS-A,-0.605,-77.917,
+Cosanga-B,COS-B,-0.616,-77.919,
+Cueros de Purulla,CPA-ARG,-26.47,-67.5,
+Easter Island -type 3,EIS-1-4,-27.11,-109.35,"Groups: EIS1,2,3,4 (Motu Iti)"
+El Batro,LM2-CHL,-38.816667,-70.3,
+El Peceño-1,EPM-ARG,-35.29339231,-68.62506923,
+El Peceño-2,EPM-ARG,-35.29342857,-68.62478571,
+Intihuaytana,INT-PU,-13.894169,-74.394054,
+Jampatilla,JAM-PU,-14.21,-74.22,
+La Bandera,LBN-ARG,-39.25,-70.133,
+Lago Lacar,LLC-ARG,-40.1764,-71.42801111,
+Lago Lolog,LOL-ARG,-40.0178,-71.3717,
+Laguna Cavi,LCA-ARG,-25.891,-66.835,
+Laguna del Diamante,LDM-ARG,-34.1833,-69.7,
+Laguna del Maule,LM-CHL,-36.025,-70.483,"Group: LM2-CHL, LM3-CHL, aka Las Nieblas"
+Las Cargas,LCM-ARG,-35.2,-70.323,
+Lisahuacho,LH-PU,-14.37,-73.36,formerly Andahuaylas type B
+Macusani River,MAC-PU,-14.2,-70.5,
+Meliquina,MEL-ARG,-40.483,-71.3511,
+Mullumica,ELI-ECD,-0.227,-78.197,
+Ona,ONA-ARG,-25.31666667,-67.36416667,
+Pampa del Asador-1,C-GROUP1,-47.8833,-71.3167,"PDA1,2,3-ARG"
+Pampa la Chispa,C-GROUP1,-47.8833,-71.3167,
+Parinacota,PAR-CHL,-18.14205258,-69.31005808,
+Piedra Parada,C-GROUP3,-42.6603,-70.1142,
+Potreropampa ,PP-PU,-14.36,-73.32,(formerly Andahuaylas type A)
+Puzolana,PUZ-PU,-13.46362544,-74.05193432,
+Quebrada Pel�n,PELUN,-22.647,-68.065,
+Quiron,QRN-ARG,-24.6,-66.93666667,
+Quiron/La Pava,QRN-ARG,-24.595,-66.075,
+Quispisisa,QSP-PU,-14.0745203,-73.25850987,
+Ramadas,RAM-ARG,-24.77,-65.22,
+Rio Bermejo,BERM,-0.523,-77.912,
+Rio Hondo,RH-CO,2.54,-76.7588,
+Sacanana,C-GROUP2,-42.05555556,-68,
+Salamanca,C-GROUP2,-41.5,-67.25,
+Salar de Tara,SALTARA,-23.0833,-67.25,
+Salar del Hombre Muerto-3,SHM3-ARG,-25.5,-66.97,
+Seno Otway,SO-CH,-52.8833,-71.1167,
+Sillajasa,SIL-PU,-14.567243,-72.999725,
+Somuncura,C-GROUP2,-41.5,-67.25,C16
+Sora Sora,SS-BOL,-18.1942,-68.2459,
+Tablon Grande,OUTLIER,-0.251,-78.251,
+Telsen/Sierra Chata,C-GROUP2,-41.5,-67.25,C4
+Tocomar,TOC-ARG,-23.92,-66.08,
+Tres Cerros-1,TRC-ARG,-48.1242,-67.6439,
+Tres Cerros-2,TRC-ARG,-48.1242,-67.6439,
+Uyo Uyo,UU-PU,-15.61852238,-71.747991,
+Valle Ancho,VAC,-27.7,-69,
+Yanarangra,YNR-PU,-13.24,-75.17,
+Yuco,YUCO-ARG,-40.1586,-71.5222,
