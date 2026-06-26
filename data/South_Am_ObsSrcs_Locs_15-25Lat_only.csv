@@ -1,8 +1,8 @@
-Name,Chem_Group,Latitude,Longitude
+Name,Group,Latitude,Longitude
 Caldera Vilama,CVA2-ARG,-22.5667,-66.6
 Cerro Kaskio,CK-BOL,-21.382,-67.7793
 Laguna Blanca Zapaleri,LBZ,-22.8862,-67.4359
-Charaña,CHR-BOL,-17.583,-69.1667
+CharaÃ±a,CHR-BOL,-17.583,-69.1667
 Chivay,CHIVAY,-15.64012555,-71.61098985
 Parinacota,PAR-CHL,-18.14205258,-69.31005808
 Sora Sora,SS-BOL,-18.1942,-68.2459
@@ -10,4 +10,4 @@ Ramadas,RAM-ARG,-24.77,-65.22
 Quiron/La Pava,QRN-ARG,-24.595,-66.075
 Tocomar,TOC-ARG,-23.92,-66.08
 Salar de Tara,SALTARA,-23.0833,-67.25
-Quebrada Pelún,QP-CHL,-22.647,-68.065
+Quebrada PelÃºn,QP-CHL,-22.647,-68.065
